@@ -1,0 +1,2 @@
+serviceClass: artndharma.client.GreetingService
+path: A4BEE24D089332D18C6E31EE16A33776.gwt.rpc
